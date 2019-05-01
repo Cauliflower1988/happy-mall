@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mmall" options="-extdirs F:\utorrent下载器\一期+二期资料\mmallv4.0/src/main/webapp/WEB-INF/lib" />
+      <module name="mmall" options="-extdirs F:\happy-mall/src/main/webapp/WEB-INF/lib" />
     </option>
   </component>
 </project>
